@@ -210,7 +210,32 @@
         }
     ],
     
-    "data" : [
+    "tips" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Toca Life: World",
+            "img1" : "https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2022/11/16134006/BlackPantherWakandaForever.jpg",
+            "img2" : "",
+            "part1" : "There Is Nothing Beastly About These Gorgeous Beauty and the Beast Posters.",
+            "part2" : "fffffffffffffffffffffffffffffffffffffff"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Disney's live-action Beauty and the Beast",
+            "img1" : "https://cdn.shopify.com/s/files/1/0969/9128/products/Dora_The_Explorer_And_The_Lost_City_Of_Gold_-_Hollywood_English_Movie_Poster_1_66c87e56-24a2-4135-b709-a6b98a7f7bce.jpg?v=1577693664",
+            "img2" : "",
+            "part1" : "Having spent most of her life exploring the jungle, nothing could prepare Dora for her most dangerous adventure yet -- high school. Accompanied by a ragtag group of teens and Boots the monkey, Dora embarks on a quest to save her parents while trying to solve the seemingly impossible mystery behind a lost Incan civilization.",
+            "part2" : ""
+        }
+    ],
+    
+    "guide" : [
         {
             "url" : "",
             "urlimg" : "",
