@@ -1,0 +1,416 @@
+{
+    "config" : [
+        {
+            "int_interval" : 1,
+            "activate_ads" : "false",
+            "custom_banner" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "unity_game_id" : "4929725",
+            "unity_int" : "Interstitial_Android",
+            "unity_ban" : "Banner_Android",
+            
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-DEMO-native-i",
+            "yandex_int" : "R-M-DEMO-interstitial",
+
+            "iron_key": "168e4ab9d",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        }
+    ],
+    
+    "games" : [
+   
+
+    ],
+
+    "custom" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+        },
+        {
+            "name" : "",
+            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
+        }
+    ],
+    
+    "tips" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Toca Life: World",
+            "img1" : "https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2022/11/16134006/BlackPantherWakandaForever.jpg",
+            "img2" : "",
+            "part1" : "There Is Nothing Beastly About These Gorgeous Beauty and the Beast Posters.",
+            "part2" : "fffffffffffffffffffffffffffffffffffffff"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Disney's live-action Beauty and the Beast",
+            "img1" : "https://cdn.shopify.com/s/files/1/0969/9128/products/Dora_The_Explorer_And_The_Lost_City_Of_Gold_-_Hollywood_English_Movie_Poster_1_66c87e56-24a2-4135-b709-a6b98a7f7bce.jpg?v=1577693664",
+            "img2" : "",
+            "part1" : "Having spent most of her life exploring the jungle, nothing could prepare Dora for her most dangerous adventure yet -- high school. Accompanied by a ragtag group of teens and Boots the monkey, Dora embarks on a quest to save her parents while trying to solve the seemingly impossible mystery behind a lost Incan civilization.",
+            "part2" : ""
+        }
+    ],
+    
+    "guide" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Devotion (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMjI5NGJjMmEtODk4Yy00ZDRjLWE5ZGItMjJiNGM4NTI0NmZkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+            "img2" : "",
+            "part1" : "The harrowing true story of two elite US Navy fighter pilots during the Korean War. Their heroic sacrifices would ultimately make them the Navy's most celebrated wingmen. 
+            
+            War, History, Drama
+
+            
+            J.D. Dillard : Director
+            Jonathan Stewart : Screenplay 
+            Jake Crane : Screenplay",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Black Adam (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+            "img2" : "",
+            "part1" : "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.
+            
+            (US) Action, Fantasy, Science Fiction. : 2h 5m
+
+            
+            
+            C.C. Beck : Characters
+            Bill Parker : Characters
+            Jaume Collet-Serra : Director
+            Rory Haines : Writer
+            Sohrab Noshirvani : Writer
+            Adam Sztykiel : Writer",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Black Panther: Wakanda Forever (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.
+            
+
+            
+            Ryan Coogler : Director, Screenplay, Story
+            Stan Lee : Characters
+            Jack Kirby. : Characters
+            Joe Robert Cole : Screenplay
+           ",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "R.I.P.D. 2: Rise of the Damned (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BZDM5YTI5MWUtMWI0YS00NjMyLThjODMtMzFjMTg1ZTgwZDEyXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "When Sheriff Roy Pulsipher finds himself in the afterlife, he joins a special police force and returns to Earth to save humanity from the undead 
+            
+            
+            Fantasy, Action, Comedy, Crime : 1h 42m.
+            
+            Paul Leyden : Director, Writer  
+            Andrew Klein : Writer",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Paradise City (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNTdhNWE1YjAtNWMzMS00ZmUzLWFjN2EtOWJlMGRkMTdiNGQ4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+            "img2" : "",
+            "part1" : "Renegade bounty hunter Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.
+            
+            Crime, Action, Thriller. : 1h 33m
+            
+            
+            Chuck Russell :  Director
+            Edward Drake : Writer  
+            Corey Large : Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Hex (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BM2VmNDUwMzMtMmMzYi00MjY0LTg2YzEtNWI2OTI5MjZhN2VlXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg",
+            "img2" : "",
+            "part1" : "Following a mysterious disappearance on a jump, a group of skydivers experience paranormal occurrences that leave them fighting for their lives.
+            
+            
+            
+            Action, Horror, Thriller. : 1h 28m
+            
+            
+            Andy Malchiodi : Director.
+            Chris Johnston :  Director
+            Hans Rodionoff : Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Disenchanted (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNDVhYjU1ZjUtNzI3Ni00Mzg5LWJhNGYtMjE3Y2FlZWY2Y2Y2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Disillusioned with life in the city, feeling out of place in suburbia, and frustrated that her happily ever after hasn’t been so easy to find, Giselle turns to the magic of Andalasia for help. Accidentally transforming the entire town into a real-life fairy tale and placing her family’s future happiness in jeopardy, she must race against time to reverse the spell and determine what happily ever after truly means to her and her family.
+            
+            
+            
+            Comedy, Family, Fantasy : 1h 59m
+            
+            
+            Bill Kelly :  Characters 
+            Adam Shankman :  Director 
+            Brigitte Hales :  Screenplay
+            Richard LaGravenese : Story 
+            David N. Weiss : Story
+            J. David Stem : Story
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Emily the Criminal (2022)",
+            "img1" : "https://supercima.com/wp-content/uploads/2022/08/Emily-the-Criminal_2022.jpg",
+            "img2" : "",
+            "part1" : "Emily, who is saddled with student debt and locked out of the job market due to a minor criminal record, gets involved in a credit card scam that pulls her into the criminal underworld of Los Angeles, ultimately leading to deadly consequences
+            
+            Crime, Drama, Mystery, Thriller. : 1h 37m.
+            
+            John Patton Ford : Director, Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Lost Bullet 2 (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BY2ZjM2ZlMTctMTMzOC00NGRlLTg2ZGUtYzI3OGExZjkyZGYwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Having cleared his name, genius mechanic Lino has only one goal in mind: getting revenge on the corrupt cops who killed his brother and his mentor.
+            
+            
+            Action, Drama, Thriller : 1h 38m 
+            
+            
+            Guillaume Pierret : Director, Write
+            Alban Lenoir : Screenplay ",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Sniper: The White Raven (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNWMwOTgyNmMtYWNlYS00NGIyLTllOWYtZTVlNzU3N2ViZWQ5XkEyXkFqcGdeQXVyMzk3OTUyMDY@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Mykola is an eccentric pacifist who wants to be useful to humanity. When the war begins at Donbass, Mykola’s naive world is collapsing as the militants kill his pregnant wife and burn his home to the ground. Recovered, he makes a cardinal decision and gets enlisted in a sniper company. Having met his wife’s killers, he emotionally breaks down and arranges “sniper terror” for the enemy. He’s saved from a senseless death by his instructor who himself gets mortally wounded. The death of a friend leaves a “scar” and Mykola is ready to sacrifice his life.
+
+
+            
+            Drama, Action, War : 2h
+            
+            Marian Bushan : Director, Writer 
+            Mykola Voronin : Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Medieval (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMmE2ZTk4NDEtOTJlNi00NWZlLTkzYmYtZWZjNTYwZmY2ZWVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "img2" : "",
+            "part1" : "The story of 14th century Czech icon and warlord Jan Zizka who defeated armies of the Teutonic Order and the Holy Roman Empire.
+
+
+            
+            
+            History, Action, Drama : 2h 6m
+            
+            
+            Petr Jákl : Director, Writer 
+            Marek Dobeš  : Author  
+            Petr Jákl : Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "On the Line (2022)",
+            "img1" : "https://cdn.kinocheck.com/images/sd6wc9o5ge.jpg",
+            "img2" : "",
+            "part1" : "A provocative and edgy radio host must play a dangerous game of cat and mouse with a mysterious caller who's kidnapped his family and is threatening to blow up the whole station.
+
+
+            Thriller. 1h 44m
+            
+            Romuald Boulanger :  Director, Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Smile (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNGFmZDcyYTItZTE5Mi00Y2IxLWE2NTAtM2VlMTIxMmQzOWQxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "img2" : "",
+            "part1" : "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.
+            
+            
+            Horror, Mystery, Thriller : 1h 55m
+            
+            Parker Finn : Director, Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Frank and Penelope (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BZjM5NjBmODQtY2IwZS00MDY3LWFkY2UtMTQxZTQ5N2YyYjg4XkEyXkFqcGdeQXVyNzc3MDg1NTM@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "A tale of love and violence when a man on his emotional last legs finds a savior seductively dancing in a run-down strip club. And a life most certainly headed off a cliff suddenly becomes redirected - as everything is now worth dying for.
+            
+            Thriller, Horror, Crime : 1h 52m
+            
+            Sean Patrick Flanery : Director, Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Margaux (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BODE1NjRiYjUtZmQwYi00Yzg5LWE1YWUtZjRkZmMzN2FiMTBmXkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "As a group of seniors celebrate their final college days at a smart house, the house's highly advanced AI system, Margaux, begins to take on a deadly presence of her own. A carefree weekend of partying turns into a dystopian nightmare as they realize Margaux's plans to eliminate her tenants one way or another. Time begins to run out as the group desperately tries to survive and outsmart the smart home.
+
+
+            Horror, Science Fiction : 1h 45m
+            
+            
+            Chris Beyrooty : Screenplay, Story
+            Nick Waters  : Screenplay, Story 
+            Steven C. Miller : Director  
+            Chris Sivertson : Screenplay",
+            "part2" : "."
+        }
+
+        
+    ]
+}
