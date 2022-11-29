@@ -41,42 +41,6 @@
             "name" : "Snake.io: Fun Snake .io Games",
             "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
-        },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
-        },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
-        },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
-        },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
-        },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
         }
     ],
     
@@ -172,7 +136,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Devotion (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/mOuU9z8nrBaEkS5D6z8IPTxIZC9.jpg",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMjI5NGJjMmEtODk4Yy00ZDRjLWE5ZGItMjJiNGM4NTI0NmZkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
             "img2" : "",
             "part1" : "The harrowing true story of two elite US Navy fighter pilots during the Korean War. Their heroic sacrifices would ultimately make them the Navy's most celebrated wingmen. 
             
@@ -319,8 +283,25 @@
             
             John Patton Ford : Director, Writer",
             "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Lost Bullet 2 (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BY2ZjM2ZlMTctMTMzOC00NGRlLTg2ZGUtYzI3OGExZjkyZGYwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Having cleared his name, genius mechanic Lino has only one goal in mind: getting revenge on the corrupt cops who killed his brother and his mentor.
+            
+            
+            Action, Drama, Thriller 1h 38m 
+            
+            
+            Guillaume Pierret : Director, Write
+            Alban Lenoir : Screenplay ",
+            "part2" : "."
         }
-        
 
         
     ]
