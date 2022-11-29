@@ -158,7 +158,7 @@
             "img2" : "",
             "part1" : "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.
             
-            (US) Action, Fantasy, Science Fiction.  2h 5m
+            (US) Action, Fantasy, Science Fiction. : 2h 5m
 
             
             
@@ -200,7 +200,7 @@
             "part1" : "When Sheriff Roy Pulsipher finds himself in the afterlife, he joins a special police force and returns to Earth to save humanity from the undead 
             
             
-            Fantasy, Action, Comedy, Crime 1h 42m.
+            Fantasy, Action, Comedy, Crime : 1h 42m.
             
             Paul Leyden : Director, Writer  
             Andrew Klein : Writer",
@@ -216,7 +216,7 @@
             "img2" : "",
             "part1" : "Renegade bounty hunter Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.
             
-            Crime, Action, Thriller. 1h 33m
+            Crime, Action, Thriller. : 1h 33m
             
             
             Chuck Russell :  Director
@@ -236,7 +236,7 @@
             
             
             
-            Action, Horror, Thriller. 1h 28m
+            Action, Horror, Thriller. : 1h 28m
             
             
             Andy Malchiodi : Director.
@@ -256,7 +256,7 @@
             
             
             
-            Comedy, Family, Fantasy 1h 59m
+            Comedy, Family, Fantasy : 1h 59m
             
             
             Bill Kelly :  Characters 
@@ -279,7 +279,7 @@
             "img2" : "",
             "part1" : "Emily, who is saddled with student debt and locked out of the job market due to a minor criminal record, gets involved in a credit card scam that pulls her into the criminal underworld of Los Angeles, ultimately leading to deadly consequences
             
-            Crime, Drama, Mystery, Thriller. 1h 37m.
+            Crime, Drama, Mystery, Thriller. : 1h 37m.
             
             John Patton Ford : Director, Writer",
             "part2" : "."
@@ -295,11 +295,119 @@
             "part1" : "Having cleared his name, genius mechanic Lino has only one goal in mind: getting revenge on the corrupt cops who killed his brother and his mentor.
             
             
-            Action, Drama, Thriller 1h 38m 
+            Action, Drama, Thriller : 1h 38m 
             
             
             Guillaume Pierret : Director, Write
             Alban Lenoir : Screenplay ",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Sniper: The White Raven (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNWMwOTgyNmMtYWNlYS00NGIyLTllOWYtZTVlNzU3N2ViZWQ5XkEyXkFqcGdeQXVyMzk3OTUyMDY@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Mykola is an eccentric pacifist who wants to be useful to humanity. When the war begins at Donbass, Mykola’s naive world is collapsing as the militants kill his pregnant wife and burn his home to the ground. Recovered, he makes a cardinal decision and gets enlisted in a sniper company. Having met his wife’s killers, he emotionally breaks down and arranges “sniper terror” for the enemy. He’s saved from a senseless death by his instructor who himself gets mortally wounded. The death of a friend leaves a “scar” and Mykola is ready to sacrifice his life.
+
+
+            
+            Drama, Action, War : 2h
+            
+            Marian Bushan : Director, Writer 
+            Mykola Voronin : Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Medieval (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMmE2ZTk4NDEtOTJlNi00NWZlLTkzYmYtZWZjNTYwZmY2ZWVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "img2" : "",
+            "part1" : "The story of 14th century Czech icon and warlord Jan Zizka who defeated armies of the Teutonic Order and the Holy Roman Empire.
+
+
+            
+            
+            History, Action, Drama : 2h 6m
+            
+            
+            Petr Jákl : Director, Writer 
+            Marek Dobeš  : Author  
+            Petr Jákl : Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "On the Line (2022)",
+            "img1" : "https://cdn.kinocheck.com/images/sd6wc9o5ge.jpg",
+            "img2" : "",
+            "part1" : "A provocative and edgy radio host must play a dangerous game of cat and mouse with a mysterious caller who's kidnapped his family and is threatening to blow up the whole station.
+
+
+            Thriller. 1h 44m
+            
+            Romuald Boulanger :  Director, Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Smile (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNGFmZDcyYTItZTE5Mi00Y2IxLWE2NTAtM2VlMTIxMmQzOWQxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "img2" : "",
+            "part1" : "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.
+            
+            
+            Horror, Mystery, Thriller : 1h 55m
+            
+            Parker Finn : Director, Writer",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Frank and Penelope (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BZjM5NjBmODQtY2IwZS00MDY3LWFkY2UtMTQxZTQ5N2YyYjg4XkEyXkFqcGdeQXVyNzc3MDg1NTM@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "A tale of love and violence when a man on his emotional last legs finds a savior seductively dancing in a run-down strip club. And a life most certainly headed off a cliff suddenly becomes redirected - as everything is now worth dying for.
+            
+            Thriller, Horror, Crime : 1h 52m
+            
+            Sean Patrick Flanery : Director, Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Margaux (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BODE1NjRiYjUtZmQwYi00Yzg5LWE1YWUtZjRkZmMzN2FiMTBmXkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "As a group of seniors celebrate their final college days at a smart house, the house's highly advanced AI system, Margaux, begins to take on a deadly presence of her own. A carefree weekend of partying turns into a dystopian nightmare as they realize Margaux's plans to eliminate her tenants one way or another. Time begins to run out as the group desperately tries to survive and outsmart the smart home.
+
+
+            Horror, Science Fiction : 1h 45m
+            
+            
+            Chris Beyrooty : Screenplay, Story
+            Nick Waters  : Screenplay, Story 
+            Steven C. Miller : Director  
+            Chris Sivertson : Screenplay",
             "part2" : "."
         }
 
