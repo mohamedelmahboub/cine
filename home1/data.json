@@ -81,49 +81,7 @@
     ],
     
     "games" : [
-        {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Overall",
-            "orientation" : "1"
-        },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Strategies",
-            "orientation" : "0"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Soccer",
-            "orientation" : "1"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Arcade",
-            "orientation" : "1"
-        },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Puzzles",
-            "orientation" : "0"
-        },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Hypercasual",
-            "orientation" : "1"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Arcade",
-            "orientation" : "0"
-        }
+   
 
     ],
 
@@ -135,34 +93,6 @@
             "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
             "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
-        },{
-            "name" : "Cat Condo",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/ubvQoW1oMXE/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/IlNWWBUsgH4/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://static-prod.adweek.com/wp-content/uploads/2019/12/hulu-cheez-it-ad-CONTENT-2019.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
-        },{
-            "name" : "Cat Escape",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://media.idownloadblog.com/wp-content/uploads/2014/03/farm-heroes-tv.png",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
         }
 
     ],
@@ -260,7 +190,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Black Adam (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
             "img2" : "",
             "part1" : "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.
             
@@ -282,7 +212,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Black Panther: Wakanda Forever (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
             "img2" : "",
             "part1" : "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.
             
@@ -301,7 +231,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "R.I.P.D. 2: Rise of the Damned (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BZDM5YTI5MWUtMWI0YS00NjMyLThjODMtMzFjMTg1ZTgwZDEyXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_FMjpg_UX1000_.jpg",
             "img2" : "",
             "part1" : "When Sheriff Roy Pulsipher finds himself in the afterlife, he joins a special police force and returns to Earth to save humanity from the undead 
             
@@ -318,7 +248,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Paradise City (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/xdmmd437QdjcCls8yCQxrH5YYM4.jpg",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNTdhNWE1YjAtNWMzMS00ZmUzLWFjN2EtOWJlMGRkMTdiNGQ4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
             "img2" : "",
             "part1" : "Renegade bounty hunter Ryan Swan must carve his way through the Hawaiian crime world to wreak vengeance on the kingpin who murdered his father.
             
@@ -336,7 +266,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Hex (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/xFJHb43ZAnnuiDztxZYsmyopweb.jpg",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BM2VmNDUwMzMtMmMzYi00MjY0LTg2YzEtNWI2OTI5MjZhN2VlXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg",
             "img2" : "",
             "part1" : "Following a mysterious disappearance on a jump, a group of skydivers experience paranormal occurrences that leave them fighting for their lives.
             
@@ -356,7 +286,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Disenchanted (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNDVhYjU1ZjUtNzI3Ni00Mzg5LWJhNGYtMjE3Y2FlZWY2Y2Y2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
             "img2" : "",
             "part1" : "Disillusioned with life in the city, feeling out of place in suburbia, and frustrated that her happily ever after hasn’t been so easy to find, Giselle turns to the magic of Andalasia for help. Accidentally transforming the entire town into a real-life fairy tale and placing her family’s future happiness in jeopardy, she must race against time to reverse the spell and determine what happily ever after truly means to her and her family.
             
@@ -381,244 +311,13 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Emily the Criminal (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg",
+            "img1" : "https://supercima.com/wp-content/uploads/2022/08/Emily-the-Criminal_2022.jpg",
             "img2" : "",
             "part1" : "Emily, who is saddled with student debt and locked out of the job market due to a minor criminal record, gets involved in a credit card scam that pulls her into the criminal underworld of Los Angeles, ultimately leading to deadly consequences
             
             Crime, Drama, Mystery, Thriller. 1h 37m.
             
             John Patton Ford : Director, Writer",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "The Menu (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/fz5ke19pORLDOCvCKrVUXzERWDF.jpg",
-            "img2" : "",
-            "part1" : "A couple travels to a coastal island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Strange World (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
-            "img2" : "",
-            "part1" : "A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades—a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Prey for the Devil (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/w3s6XEDNVGq5LUlghqs6VlvsvL6.jpg",
-            "img2" : "",
-            "part1" : "In response to a global rise in demonic possessions, the Catholic Church reopens exorcism schools to train priests in the Rite of Exorcism. On this spiritual battlefield, an unlikely warrior rises: a young nun, Sister Ann. Thrust onto the spiritual frontline with fellow student Father Dante, Sister Ann finds herself in a battle for the soul of a young girl and soon realizes the Devil has her right where he wants her.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Decision to Leave (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/N0rskx91Eh6aWjvBybeY6epNic.jpg",
-            "img2" : "",
-            "part1" : "From a mountain peak in South Korea, a man plummets to his death. Did he jump, or was he pushed? When detective Hae-joon arrives on the scene, he begins to suspect the dead man’s wife Seo-rae. But as he digs deeper into the investigation, he finds himself trapped in a web of deception and desire.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "AINBO: Spirit of the Amazon (2021)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg",
-            "img2" : "",
-            "part1" : "An epic journey of a young hero and her Spirit Guides, 'Dillo' a cute and humorous armadillo and Vaca a goofy oversized tapir, who embark on a quest to save their home in the spectacular Amazon Rainforest.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "TÁR (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
-            "img2" : "",
-            "part1" : "Renowned musician Lydia Tár is days away from recording the symphony that will elevate her career. When all elements seem to conspire against her, Lydia's adopted daughter Petra becomes an integral emotional support for her struggling mother.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
-            "part2" : "."
-        },
-        {
-            "url" : "",
-            "urlimg" : "",
-            "url2" : "",
-            "url2img" : "",
-            "name" : "Bones and All (2022)",
-            "img1" : "https://www.themoviedb.org/t/p/w1280/gH6ppXl2gd1VMKoccKbLK69ZHQq.jpg",
-            "img2" : "",
-            "part1" : "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
             "part2" : "."
         }
         
