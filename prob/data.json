@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "int_interval" : 1,
+            "int_interval" : 5,
             "activate_ads" : "false",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -408,6 +408,320 @@
             Nick Waters  : Screenplay, Story 
             Steven C. Miller : Director  
             Chris Sivertson : Screenplay",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Corrective Measures (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMmY2MjQzY2YtZWIwNS00YjhhLWJjZWMtMzk3NzdhNTM2YmIyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "img2" : "",
+            "part1" : "Set in San Tiburon, the world's most dangerous maximum-security penitentiary and home to the world's most treacherous superpowered criminals, where tensions among the inmates and staff heighten, leading to anarchy that engulfs the prison and order is turned upside down.
+
+
+            Science Fiction, Action : 1h 46m
+
+
+
+            Sean Patrick O'Reilly : Director, Writer
+            Grant Chastain :Author
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "The Soccer Football Movie (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNThjMzVlN2YtYzAwMi00YTkzLTk5NmMtNDIzZjhjNjI3ZDEzXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "When mysterious green slime monsters start popping out of soccer balls, all-star athletes Zlatan Ibrahimović and Megan Rapinoe must team up with their four biggest fans to stop evil scientist "Weird Al" Yankovic from stealing their talent.
+
+
+            Animation, Comedy, Family : 1h 14m
+
+
+
+            Mitch Schauer : Director
+            Deeki Deke : Writer
+
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Tom and Jerry Snowman's Land (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BZDVkNGU1MTQtNDE2ZS00NTM3LWFkOTgtMWQ4M2VmODBjOWJjXkEyXkFqcGdeQXVyMTE5NTM5NTU5._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "It’s time to chase that holiday spirit with Tom and Jerry! With magic in the air, Jerry and his nephew, Tuffy, make a snow mouse that miraculously comes to life! To keep their new friend, Larry the snow mouse from melting, Tuffy and Jerry must race him to the fabled Snowman’s Village. In hot pursuit, Tom and devious Dr. Doublevay have their own plans for Larry’s magic.
+
+            Family, Comedy, Animation, Adventure : 1h 16m
+
+
+            Jase Ricci : Story, Teleplay
+
+            William Hanna :Characters
+
+            Joseph Barbera : Characters
+
+            Darrell Van Citters : Director
+
+             Will Finn : Story
+
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Slumberland (2022)",
+            "img1" : "https://realgbedu.com/wp-content/uploads/2022/11/Slumberland.jpg",
+            "img2" : "",
+            "part1" : " A young girl discovers a secret map to the dreamworld of Slumberland, and with the help of an eccentric outlaw, she traverses dreams and flees nightmares, with the hope that she will be able to see her late father again.
+
+            Family, Fantasy, Adventure, Drama : 1h 57m
+
+
+            Winsor McCay : Characters
+            Francis Lawrence : Director
+            David Guion : Screenplay
+            Michael Handelman : Screenplay
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Enola Holmes 2 (2022) ",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMDI1NWM1ZDItNDFhMi00YWRhLTg1YzItNTNhY2M2N2QzY2FkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends — and Sherlock himself — to unravel.
+
+            Mystery, Adventure, Comedy, Crime : 2h 9m
+
+
+            Harry Bradbeer : Director
+            Nancy Springer : Novel
+            Jack Thorne : Writer
+
+
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "The Woman King (2022) ",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BY2I4MDIwYWUtOWMxNC00ZTIzLWE3OGYtOWUyMmIwZGE2NjU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "img2" : "",
+            "part1" : "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.
+
+
+            Action, Drama, History : 2h 15m
+
+
+
+            Dana Stevens : Screenplay, Story
+            Gina Prince-Bythewood : Director
+            Maria Bello :Story
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Hellraiser (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BYWM1YTgxNjMtNzY2NC00YjVmLWE1ODUtNTdiYTI4YjZhODMwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "img2" : "",
+            "part1" : "A young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.
+
+
+
+            Horror, Mystery : 2h 1m
+
+
+            Clive Barker : Characters, Novel
+            David Bruckner : Director
+            Luke Piotrowski : Screenplay
+            Ben Collins : Screenplay",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Nice Sister-In-Law 2 (2017) ",
+            "img1" : "https://i.mydramalist.com/2NK6kf.jpg",
+            "img2" : "",
+            "part1" : "If you give it once, a good brother-in-law who gives everything generously will come! At the house of her girlfriend Jin-kyung, who lives with pumice stone, her brother and his wife suddenly visit and the four of them live together. At first, Kyung-seok, who was burdened by his girlfriend's brother, began to keep his eyes on his wife, Yeon-su. A bold brother-in-law who walks around in no-bra and panties without hesitation even at his sister-in-law's house. Besides, from a certain moment, he starts to send a hand of temptation to Pyeong-seok first...
+
+            Romance : 1h 12m
+
+
+
+
+
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Blade of the 47 Ronin (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BY2RkNWM0OWQtYmQxYi00ZjdlLTg4ZWItYTgwNjdlYzVlZjFmXkEyXkFqcGdeQXVyNjQ2MjQ4MzQ@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "In this sequel to "47 Ronin," a new class of warriors emerges among the Samurai clans to keep a sought-after sword from falling into the wrong hands.
+
+
+            Action, Fantasy : 1h 46m
+
+
+            Ron Yuan : Director
+            AJ Lee : Writer
+            John Swetnam : Writer
+            Aimee Garcia : Writer
+
+            ",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Tad the Lost Explorer and the Curse of the Mummy (2022) ",
+            "img1" : "https://cdn11.bigcommerce.com/s-mmafe1g4n3/images/stencil/1280x1280/products/6095/11857/MM00310741__75997.1663063234.jpg?c=1",
+            "img2" : "",
+            "part1" : "Tad would love for his archeologist colleagues to accept him as one of their own, but he always messes everything up. Tad accidentally destroys a sarcophagus and unleashes an ancient spell endangering the lives of his friends: Mummy, Jeff and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure that will take him from Mexico to Chicago and from Paris to Egypt, in order to put an end to the curse of the Mummy.
+
+
+            Adventure, Animation, Comedy, Family, Fantasy : 1h 29m
+
+
+            Enrique Gato : Director
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Fall (2022) ",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNGI3MWYwYjItNzZhYi00ZWIzLTkyMzYtN2JmNjg3ODg1NTg4XkEyXkFqcGdeQXVyMTMwMDA5ODU3._V1_.jpg",
+            "img2" : "",
+            "part1" : "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter’s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights
+
+            Thriller : 1h 47m
+
+
+            Scott Mann : Director, Writer
+            Jonathan Frank : Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Overdose (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNjRiNTE2YmQtMjgyZi00YWVkLWJkYmItZjY5YTY1NGU4MDJmXkEyXkFqcGdeQXVyMTIyODg3MDI@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Captain Sara Bellaiche, from Toulouse Judiciary Police branch, is investigating a go-fast linked to the murder of two teenagers, an investigation led by Richard Cross, from the Paris Criminal Brigade. Forced to collaborate in order to find the murderer and stop the bloody go-fast, Sara and Richard are both thrown in a breathless race against the clock on the roads of Spain and France.
+
+
+
+            Action, Crime, Thriller : 1h 59m
+
+
+            Olivier Marchal : Director, Writer
+            Pierre Pouchairet : Novel
+            Christophe Gavat : Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "All Quiet on the Western Front (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BYTE1MmZiMWYtYTFmZi00YjA3LWI2ODgtMWFlNWYxZjdmNGE3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+            "img2" : "",
+            "part1" : "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.
+
+            War, Drama, Action : 2h 27m 
+
+            Edward Berger : Director
+            Erich Maria Remarque : Novel
+            Lesley Paterson : Screenplay",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Terrifier 2 (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNzEzOTZjYjYtMTI3MS00NWE1LWIyZTktYTRlMTBlYjlkMjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "img2" : "",
+            "part1" : "After being resurrected by a sinister entity, Art the Clown returns to Miles County where he must hunt down and destroy a teenage girl and her younger brother on Halloween night. As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.
+
+            Horror, Thriller : 2h 18m
+
+            Damien Leone : Director, Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "The Lair (2022) ",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BZDM2ZGU0ZjktMDMwMi00ZGIwLWI2MTEtM2I4Y2JkOTdiNjkwXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_.jpg",
+            "img2" : "",
+            "part1" : "Royal Air Force pilot Lt. Kate Sinclair is on her final flight mission when her jet is shot down over one of the most dangerous rebel strongholds in Afghanistan. She finds refuge in an abandoned underground bunker where deadly man-made creatures known as Ravagers — half-human, half-alien, and hungry for human flesh — are awakened.
+
+
+
+            Action, Horror : 1h 33m
+
+
+            Neil Marshall : Director, Writer
+            Charlotte Kirk :Writer
+
+
+",
             "part2" : "."
         }
 
