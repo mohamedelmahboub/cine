@@ -3,7 +3,7 @@
         {
             "int_interval" : 5,
             "activate_ads" : "false",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "admob",
 
@@ -49,17 +49,16 @@
 
     ],
 
-    "custom" : [
+   "custom" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+            "name" : "PobreFlix filmes séries",
+            "title" : "PobreFlix",
+            "description" : "Download: PobreFlix: Filmes,Séries APK (App)",
+            "ico2" : "https://image.winudf.com/v2/image1/Y29tLnBvYnJlZmxpeC50dmFwcHNob3dfc2NyZWVuXzBfMTYwODk0MjU4OV8wMjY/screen-0.jpg?h=500&fakeurl=1&type=.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/-W4ATLG7LZobCcJxyyp78eiSmgEFZoasoG6c5Vnxqqw0oUysTxSkpYf4jLxiy6GyXUE=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.PobreFlix.trailerhelpe"
         }
-
-    ],
+      ],
 
     "wallpapers" : [
         {
