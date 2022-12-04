@@ -1,9 +1,9 @@
 {
     "config" : [
         {
-            "int_interval" : 5,
+            "int_interval" : 1,
             "activate_ads" : "false",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "admob",
 
@@ -51,12 +51,12 @@
 
     "custom" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+            "name" : "HomeCine - Tu Cine en Casa",
+            "title" : "HomeCine.",
+            "description" : "Download: HomeCine: Filmes,Séries APK (App).",
+            "ico2" : "https://image.winudf.com/v2/image1/Y29tLmhvbWVjaW5lbmV0LmFwcHY0X3NjcmVlbl8wXzE1NzkyMTUzMTBfMDc2/screen-0.jpg?fakeurl=1&type=.webp",
+            "ico" : "https://play-lh.googleusercontent.com/CvcHWbBy7dpFMDFhFGpe2npET6Cy8-_Jv6azq5mun9IEVYjv1m1FT3VZtTLZxsWWuA=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.homecine.tipecine"
         }
 
     ],
