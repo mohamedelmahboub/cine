@@ -27,9 +27,9 @@
             "max_native" : "",
             "max_int" : "",
 
-            "fan_ban": "827753361612244_827754468278800",
-            "fan_native": "827753361612244_827754584945455",
-            "fan_int": "827753361612244_827754538278793",
+            "fan_ban": "827753361612244_828355611552019",
+            "fan_native": "827753361612244_828355754885338",
+            "fan_int": "827753361612244_828355681552012",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -128,7 +128,7 @@
         }
     ],
     
-    "guide" : [
+  "guide" : [
         {
             "url" : "",
             "urlimg" : "",
@@ -1272,8 +1272,306 @@ Zak Olkewicz : Screenplay
 
 ",
             "part2" : "."
-        }
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Lyle, Lyle, Crocodile (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BYjNhZjA3MTctOTFjNi00Mjg5LTk3ODctOGZkNDMyMjY3YWNhXkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle — a singing crocodile who loves baths, caviar and great music — living in the attic of his new home. But when Lyle’s existence is threatened by evil neighbor Mr. Grumps, the Primms must band together to show the world that family can come from the most unexpected places.
 
+
+            Comedy, Family, Music : 1h 46m
+
+
+Will Speck : Director
+Josh Gordon : Director
+William Davies : Screenplay
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Lesson Plan (2022)",
+            "img1" : "https://shahed4u.vip/wp-content/uploads/2022/11/MV5BZmMzYjkwNGQtNTM0Ni00YzEyLTk1NzYtMjMzMDRjNzc1M2JhXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_SX700.jpg",
+            "img2" : "",
+            "part1" : "After a teacher dies, his best friend — a former cop — takes a job at the school where he worked to confront the gang he thinks was responsible.
+
+
+
+Daniel Markowicz : Director
+Daniel Bernardi : Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Troll (2022)",
+            "img1" : "https://www.themoviedb.org/t/p/w1280/9z4jRr43JdtU66P0iy8h18OyLql.jpg",
+            "img2" : "",
+            "part1" : "Deep inside the mountain of Dovre, something gigantic awakens after being trapped for a thousand years. Destroying everything in its path, the creature is fast approaching the capital of Norway. But how do you stop something you thought only existed in Norwegian folklore?
+
+            Fantasy, Action, Adventure : 1h 44m
+
+
+Roar Uthaug : Director, Story
+Espen Aukan : Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "The Visitor (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BOWNiM2Q4ZmEtYzdhYS00MzM4LWE1YmUtNzQ1YWJjOGI0ZjNmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "img2" : "",
+            "part1" : "After a series of tragedies including the death of his father-in-law, Robert and his wife Maia leave their home in London to move back to her childhood home. But when Robert discovers an old portrait in the attic of a man who is his spitting image, he goes down a rabbit hole to discover the identity of this mysterious doppelganger known only as the visitor. It isn’t long until he realizes – where the visitor goes, death follows.
+
+            Horror, Mystery, Thriller : 1h 26m
+
+
+
+Justin P. Lange : Director
+Simon Boyes : Writer
+Adam Mason :Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Watcher (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMTNkNjU4OGYtODM3NS00NzM1LWFkZWItZTExNzdjYTAwMmRlXkEyXkFqcGdeQXVyMTE1MzI2NzIz._V1_.jpg",
+            "img2" : "",
+            "part1" : "As a serial killer stalks the city, Julia — a young actress who just moved to town with her husband — notices a mysterious stranger watching her from across the street.
+
+
+            Mystery, Thriller, Horror : 1h 36m
+
+
+Chloe Okuno : Director, Screenplay
+Zack Ford : Story
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "My Father's Dragon (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BOTA1YWEyNTYtN2EzNC00YWM3LThmOWUtY2I3YTA0YjkyZmZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Struggling to cope after a move to the city with his mother, Elmer runs away in search of Wild Island and a young dragon who waits to be rescued. Elmer’s adventures introduce him to ferocious beasts, a mysterious island and the friendship of a lifetime.
+
+
+            Animation, Adventure, Family, Fantasy, Comedy : 1h 44m
+
+
+
+Meg LeFauve : Screenplay, Story
+Nora Twomey : Director
+John C. Morgan : Story
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Orphan: First Kill (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BZjgwNDA3MmUtMTQ3Yy00ZDFmLTgwMTktNTBlMTQ3ZTI5MjYxXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "After escaping from an Estonian psychiatric facility, Leena Klammer travels to America by impersonating Esther, the missing daughter of a wealthy family. But when her mask starts to slip, she is put against a mother who will protect her family from the murderous “child” at any cost.
+
+
+            Horror, Thriller : 1h 39m 
+
+
+Alex Mace : Characters, Story
+William Brent Bell : Director
+David Coggeshall : Screenplay
+David Leslie Johnson-McGoldrick : Story
+
+
+
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Prey (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "img2" : "",
+            "part1" : "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.
+
+
+            Thriller, Action, Science Fiction : 1h 40m
+
+
+
+Dan Trachtenberg : Director, Story
+Patrick Aison : Screenplay, Story
+John Thomas : Characters
+Jim Thomas : Characters
+
+
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "The Fallout (2021)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMjM2MTg0MDUtZTMwOS00MTk3LTkzZWQtOTQ0ODY4MTI3MTMxXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
+
+
+            Drama : 1h 36m
+
+
+            Megan Park : Director, Screenplay
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Fullmetal Alchemist: The Final Alchemy (2022)",
+            "img1" : "https://metadata-static.plex.tv/5/gracenote/5716bfa75c55b0d74af6bf74b5f206cf.jpg",
+            "img2" : "",
+            "part1" : "The Elric brothers’ long and winding journey comes to a close in this epic finale, where they must face off against an unworldly, nationwide threat.
+
+
+            Action, Adventure, Fantasy : 2h 23m
+
+Fumihiko Sori : Director
+Takeshi Miyamoto : Screenplay
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "The Red Book Ritual (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BZjk2YmQyY2EtZTk3NC00ZGUzLTk4MWItY2UyODViN2MyOTg5XkEyXkFqcGdeQXVyMTY1NDQ5ODA@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Three friends decide to play The Red Book game. What they don't know is that in the house evil is waiting to be released. A long time ago a witch died as part of a satanic ritual. Every question they ask, they get closer and closer to her. The book will reveal the answers to all your questions… but what if your host is an evil entity with a thirst for blood?
+
+            Horror : 1h 23m
+
+
+
+Guillermo Lockhart : Director, Writer
+Tony Morales : Director
+Nicholas Peterson : Director
+Brian Deane : Director
+Christopher West : Director
+Oliver Garland : Director
+Nicolás Onetti : Director
+Daniel Rübesam : Director
+Victor Català : Director
+Mauro Croche : Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Sonic the Hedgehog 2 (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BODRlNTY5ZjktZjE0Ni00YjZhLTk3NTItYzk0ZjYxN2QxMWEzXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg",
+            "img2" : "",
+            "part1" : "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
+
+
+            Action, Adventure, Family, Comedy : 2h 2m
+
+
+
+Josh Miller : Screenplay, Story
+Patrick Casey : Screenplay, Story
+Jeff Fowler : Director
+John Whittington : Screenplay
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "The Infernal Machine (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BMTU2Mzc2MzMtZjgwZC00MjI2LTg3YTktZDAzZTAyZmFkYTE0XkEyXkFqcGdeQXVyMjM2OTA1OTY@._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Reclusive and controversial author Bruce Cogburn is drawn out of hiding by an obsessive fan, forcing the novelist to confront a past that he thought he could escape, and to account for events set in motion by his bestseller decades earlier. Cogburn's search for who is behind the manipulation and mental torment he encounters leads to an emotional roller-coaster ride full of fear and danger, where things are not always as clear as they seem to be, and where past deeds can have dire consequences.
+
+
+            Thriller, Mystery : 1h 47m
+
+            Andrew Hunt : Director, Writer
+
+",
+            "part2" : "."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "The School for Good and Evil (2022)",
+            "img1" : "https://m.media-amazon.com/images/M/MV5BNzM1ODI4Y2UtMGYxMS00OTUxLWE4NzItNjgxMTM2NzRjZThkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg",
+            "img2" : "",
+            "part1" : "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains — and find themselves on opposing sides of the battle between good and evil.
+
+
+            Fantasy, Action, Drama : 2h 26m
+
+
+Paul Feig : Director, Screenplay
+Soman Chainani : Novel
+Laura Solon : Screenplay
+David Magee : Screenplay
+
+",
+            "part2" : "."
+        }
         
     ]
 }
