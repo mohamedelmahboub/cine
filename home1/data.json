@@ -1,11 +1,11 @@
 {
     "config" : [
         {
-            "int_interval" : 5,
+            "int_interval" : 1,
             "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "fan",
+            "network" : "is",
 
             "unity_game_id" : "4929725",
             "unity_int" : "Interstitial_Android",
@@ -19,7 +19,7 @@
             "yandex_native" : "R-M-DEMO-native-i",
             "yandex_int" : "R-M-DEMO-interstitial",
 
-            "iron_key": "168e4ab9d",
+            "iron_key": "17b2296fd",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
