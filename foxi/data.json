@@ -1,11 +1,11 @@
 {
     "config" : [
         {
-            "int_interval" : 5,
-            "activate_ads" : "false",
-            "custom_banner" : "false",
+            "int_interval" : 8,
+            "activate_ads" : "true",
+            "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "admob",
+            "network" : "fan",
 
             "unity_game_id" : "4929725",
             "unity_int" : "Interstitial_Android",
@@ -27,9 +27,9 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_ban": "2099242906934891_2099246536934528",
+            "fan_native": "2099242906934891_2099246743601174",
+            "fan_int": "2099242906934891_2099246633601185",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -51,12 +51,12 @@
 
     "custom" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+            "name" : "Hulu VLC ",
+            "title" : "Hulu VLC Flix Tubi Movies TV.",
+            "description" : "Free vlc hulu flix app for Movies and TV Shows.",
+            "ico2" : "https://static.gameloop.com/img/7d6ec124e4184e5fb623f3cd84165fff.jpg?imageMogr2/thumbnail/undefinedx266/format/webp",
+            "ico" : "https://play-lh.googleusercontent.com/ppQNRXefKyfZtGqMiPK46iAIfd62OyX0McLP4T-bA3dUopwsYVfprijw9OAA2UoN5g=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.hulu.vlcfilm.movietube"
         }
 
     ],
