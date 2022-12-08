@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "is",
+            "network" : "max",
 
             "unity_game_id" : "4929725",
             "unity_int" : "Interstitial_Android",
@@ -23,9 +23,9 @@
             "iron_ban" : "11564223",
             "iron_int" : "11564221",
 
-            "max_ban" : "ceda1a6dd62a0502",
-            "max_native" : "9e27ff985bda79be",
-            "max_int" : "3805b3b693717700",
+            "max_ban" : "66790a6f1ddde43a",
+            "max_native" : "4aac33c69d8d320f",
+            "max_int" : "65e25ea73672b200",
 
             "fan_ban": "827753361612244_830216394699274",
             "fan_native": "827753361612244_830217271365853",
