@@ -5,15 +5,15 @@
             "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "max",
+            "network" : "admob",
 
             "unity_game_id" : "4929725",
             "unity_int" : "Interstitial_Android",
             "unity_ban" : "Banner_Android",
             
-            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            "admob_ban" : "ca-app-pub-1360760538716190/5204343800",
+            "admob_native" : "ca-app-pub-1360760538716190/4234004924",
+            "admob_int" : "ca-app-pub-1360760538716190/5547086590",
 
             "yandex_ban" : "R-M-1820435-1",
             "yandex_native" : "R-M-DEMO-native-i",
