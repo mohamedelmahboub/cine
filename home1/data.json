@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "int_interval" : 3,
+            "int_interval" : 4,
             "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -27,9 +27,9 @@
             "max_native" : "",
             "max_int" : "",
 
-            "fan_ban": "827753361612244_831486591238921",
-            "fan_native": "827753361612244_831487167905530",
-            "fan_int": "827753361612244_831487044572209",
+            "fan_ban": "827753361612244_833516951035885",
+            "fan_native": "827753361612244_833517361035844",
+            "fan_int": "827753361612244_833517124369201",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
