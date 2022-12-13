@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "fan",
+            "network" : "is",
 
             "unity_game_id" : "",
             "unity_int" : "",
@@ -19,9 +19,9 @@
             "yandex_native" : "",
             "yandex_int" : "",
 
-            "iron_key": "",
-            "iron_ban" : "",
-            "iron_int" : "",
+            "iron_key": "17b2296fd",
+            "iron_ban" : "11564223",
+            "iron_int" : "11564221",
 
             "max_ban" : "",
             "max_native" : "",
