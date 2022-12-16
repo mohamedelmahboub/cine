@@ -1,11 +1,11 @@
 {
     "config" : [
         {
-            "int_interval" : 4,
+            "int_interval" : 2,
             "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "fan",
+            "network" : "yandex",
 
             "unity_game_id" : "",
             "unity_int" : "",
@@ -15,9 +15,9 @@
             "admob_native" : "",
             "admob_int" : "",
 
-            "yandex_ban" : "",
-            "yandex_native" : "",
-            "yandex_int" : "",
+            "yandex_ban" : "R-M-2104760-1",
+            "yandex_native" : "R-M-2104760-2",
+            "yandex_int" : "R-M-2104760-3",
 
             "iron_key": "17b2296fd",
             "iron_ban" : "11564223",
