@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "yandex",
+            "network" : "fan",
 
             "unity_game_id" : "",
             "unity_int" : "",
@@ -27,9 +27,9 @@
             "max_native" : "",
             "max_int" : "",
 
-            "fan_ban": "827753361612244_830216394699274",
-            "fan_native": "827753361612244_828355754885338",
-            "fan_int": "827753361612244_833517124369201",
+            "fan_ban": "827753361612244_839049003816013",
+            "fan_native": "827753361612244_839049257149321",
+            "fan_int": "827753361612244_839049157149331",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
