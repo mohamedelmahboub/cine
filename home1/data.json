@@ -11,9 +11,9 @@
             "unity_int" : "",
             "unity_ban" : "",
             
-            "admob_ban" : "ca-app-pub-1360760538716190/5204343800",
-            "admob_native" : "ca-app-pub-1360760538716190/4234004924",
-            "admob_int" : "ca-app-pub-1360760538716190/5547086590",
+            "admob_ban" : "",
+            "admob_native" : "",
+            "admob_int" : "",
 
             "yandex_ban" : "R-M-2104760-1",
             "yandex_native" : "R-M-2104760-2",
