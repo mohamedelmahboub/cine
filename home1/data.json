@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "yandex",
+            "network" : "max",
 
             "unity_game_id" : "",
             "unity_int" : "",
@@ -23,9 +23,9 @@
             "iron_ban" : "11564223",
             "iron_int" : "11564221",
 
-            "max_ban" : "",
-            "max_native" : "",
-            "max_int" : "",
+            "max_ban" : "d626185619041b25",
+            "max_native" : "de6222e78546f74e",
+            "max_int" : "6b363cbef1291e99",
 
             "fan_ban": "827753361612244_839049003816013",
             "fan_native": "827753361612244_839049257149321",
