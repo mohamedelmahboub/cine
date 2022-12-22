@@ -31,7 +31,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
             "fan_int": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
             
-            "activate_update_app": "true",
+            "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.Foxiserial.moviesshow"
         }
     ],
