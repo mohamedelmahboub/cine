@@ -2,10 +2,10 @@
     "config" : [
         {
             "int_interval" : 5,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "admob",
+            "network" : "fan",
 
             "unity_game_id" : "4929725",
             "unity_int" : "Interstitial_Android",
@@ -27,9 +27,9 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_ban": "869943964229442_869944884229350",
+            "fan_native": "869943964229442_869945204229318",
+            "fan_int": "869943964229442_869945144229324",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
