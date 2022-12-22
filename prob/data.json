@@ -2,7 +2,7 @@
     "config" : [
         {
             "int_interval" : 1,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
@@ -27,9 +27,9 @@
             "max_native" : "",
             "max_int" : "",
 
-            "fan_ban": "827753361612244_827754468278800",
-            "fan_native": "827753361612244_827754584945455",
-            "fan_int": "827753361612244_827754538278793",
+            "fan_ban": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+            "fan_native": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+            "fan_int": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
             
             "activate_update_app": "true",
             "update_link": "https://play.google.com/store/apps/details?id=com.Foxiserial.moviesshow"
