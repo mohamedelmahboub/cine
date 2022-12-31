@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "int_interval" : 2,
+            "int_interval" : 1,
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -306,7 +306,7 @@
             "name" : "Sniper: The White Raven (2022)",
             "img1" : "https://m.media-amazon.com/images/M/MV5BNWMwOTgyNmMtYWNlYS00NGIyLTllOWYtZTVlNzU3N2ViZWQ5XkEyXkFqcGdeQXVyMzk3OTUyMDY@._V1_FMjpg_UX1000_.jpg",
             "img2" : "",
-            "part1" : "Mykola is an eccentric pacifist who wants to be useful to humanity. When the war begins at Donbass, Mykola’s naive world is collapsing as the militants kill his pregnant wife and burn his home to the ground. Recovered, he makes a cardinal decision and gets enlisted in a sniper company. Having met his wife’s killers, he emotionally breaks down and arranges “sniper terror” for the enemy. He’s saved from a senseless death by his instructor who himself gets mortally wounded. The death of a friend leaves a “scar” and Mykola is ready to sacrifice his life.
+            "part1" : "Mykola is an eccentric pacifist who wants to be useful to humanity. When the war begins at Donbass, Mykola’s naive world is collapsing as the militants kill his pregnant wife and burn his home to the ground. Recovered, he makes a cardinal decision and gets enlisted in a sniper company. Having met his wife’s killers, he emotionally breaks down and arranges sniper terror for the enemy. He’s saved from a senseless death by his instructor who himself gets mortally wounded. The death of a friend leaves a scar and Mykola is ready to sacrifice his life.
 
 
             
@@ -1217,7 +1217,7 @@ Natalya Lebedeva :Writer
             "name" : "Top Gun: Maverick (2022)",
             "img1" : "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
             "img2" : "",
-            "part1" : "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.
+            "part1" : "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete Maverick Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.
 
 
             Action, Drama : 2h 11m
@@ -1400,7 +1400,7 @@ John C. Morgan : Story
             "name" : "Orphan: First Kill (2022)",
             "img1" : "https://m.media-amazon.com/images/M/MV5BZjgwNDA3MmUtMTQ3Yy00ZDFmLTgwMTktNTBlMTQ3ZTI5MjYxXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
             "img2" : "",
-            "part1" : "After escaping from an Estonian psychiatric facility, Leena Klammer travels to America by impersonating Esther, the missing daughter of a wealthy family. But when her mask starts to slip, she is put against a mother who will protect her family from the murderous “child” at any cost.
+            "part1" : "After escaping from an Estonian psychiatric facility, Leena Klammer travels to America by impersonating Esther, the missing daughter of a wealthy family. But when her mask starts to slip, she is put against a mother who will protect her family from the murderous child at any cost.
 
 
             Horror, Thriller : 1h 39m 
@@ -1553,7 +1553,7 @@ John Whittington : Screenplay
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "f (2022)",
+            "name" : "The School for Good and Evil (2022)",
             "img1" : "https://m.media-amazon.com/images/M/MV5BNzM1ODI4Y2UtMGYxMS00OTUxLWE4NzItNjgxMTM2NzRjZThkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_FMjpg_UX1000_.jpg",
             "img2" : "",
             "part1" : "Best friends Sophie and Agatha navigate an enchanted school for young heroes and villains — and find themselves on opposing sides of the battle between good and evil.
@@ -1678,7 +1678,7 @@ Paul Brad Logan: Screenplay",
             "name" : "Beauty Salon: Special Service (2016)",
             "img1" : "https://www.themoviedb.org/t/p/w1280/z3Vse8jRnmKJyZFK6VSw1G6jHnY.jpg",
             "img2" : "",
-            "part1" : "A legendary beauty salon that is sure to become a regular once you go!”Sir, would you like to have a very hot service?”In order to overcome the financial difficulties of the beauty parlor,It begins to attract the male guests with the special technique that makes it from head to toe.Kurt, Firm, and ‘it’ to open the hair salon is good!
+            "part1" : "A legendary beauty salon that is sure to become a regular once you go!Sir, would you like to have a very hot service?In order to overcome the financial difficulties of the beauty parlor,It begins to attract the male guests with the special technique that makes it from head to toe.Kurt, Firm, and it to open the hair salon is good!
 
 
             Romance, Drama :1h 21m
@@ -1900,7 +1900,7 @@ Garth Jennings: Characters, Director, Writer",
             "name" : "Doraemon: Nobita's Little Star Wars 2021 (2022)",
             "img1" : "https://www.themoviedb.org/t/p/w1280/48gKZioIDeUOI0afbYv3kh9u9RQ.jpg",
             "img2" : "",
-            "part1" : "One day during summer vacation, a palm-sized alien named Papi appears from a small rocket that Nobita picks up. He is the president of Pirika, a small planet in outer space, and has come to Earth to escape the rebels. Doraemon and his friends are puzzled by Papi’s small size, but as they play together using the secret tool “Small Light”, they gradually become friends. However, a whale-shaped space battleship comes to earth and attacks Doraemon, Nobita and the others in order to capture Papi. Feeling responsible for getting everyone involved, Papi tries to stand up to the rebels. Doraemon and his friends leave for the planet Pirika to protect their dear friend and his home.
+            "part1" : "One day during summer vacation, a palm-sized alien named Papi appears from a small rocket that Nobita picks up. He is the president of Pirika, a small planet in outer space, and has come to Earth to escape the rebels. Doraemon and his friends are puzzled by Papi’s small size, but as they play together using the secret tool Small Light, they gradually become friends. However, a whale-shaped space battleship comes to earth and attacks Doraemon, Nobita and the others in order to capture Papi. Feeling responsible for getting everyone involved, Papi tries to stand up to the rebels. Doraemon and his friends leave for the planet Pirika to protect their dear friend and his home.
 
 
             Animation, Science Fiction, Adventure: 1h 48m
@@ -2140,7 +2140,7 @@ Joe Robert Cole: Writer",
             "name" : "The Takeover (2022)",
             "img1" : "https://image.tmdb.org/t/p/w500/g7rdcofib7HqdlDP1LT7Hmf1f2o.jpg",
             "img2" : "",
-            "part1" : "Self-proclaimed ethical hacker Mel Bandison's life is turned upside down when she stops a data breach on a high-tech self-driving bus that also happens to shut down an international criminal network. She then becomes a target and is framed with a deepfake video that “shows” that she murders someone.
+            "part1" : "Self-proclaimed ethical hacker Mel Bandison's life is turned upside down when she stops a data breach on a high-tech self-driving bus that also happens to shut down an international criminal network. She then becomes a target and is framed with a deepfake video that shows that she murders someone.
 
 
             Action, Crime, Thriller: 1h 27m
