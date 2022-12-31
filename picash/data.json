@@ -1,8 +1,8 @@
 {
     "config" : [
         {
-            "int_interval" : 2,
-            "activate_ads" : "true",
+            "int_interval" : 5,
+            "activate_ads" : "false",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
