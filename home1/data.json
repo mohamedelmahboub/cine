@@ -3,7 +3,7 @@
         {
             "int_interval" : 2,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
 
@@ -51,12 +51,12 @@
 
    "custom" : [
         {
-            "name" : "Look2 Movies and TV Shows",
+            "name" : "Pikashow Movies and TV Shows",
             "title" : "TV Shows",
-            "description" : "Download: Look2 Movies  for Movies and TV Shows",
-            "ico2" : "https://play-lh.googleusercontent.com/KvfJU8bpsnAFQIynkJUj4cjdnzuSTS0Zm_mb8hh00PsONDjvP5OCNy5Eh9PMjQU2cHMn=w526-h296",
-            "ico" : "https://play-lh.googleusercontent.com/XpaBvH2XA5JNQKvTfLQKCQLg5lq9j_xAzIa8HOxTPHR2xXFhyullqFSPhhdLovcjQhg=w480-h960",
-            "link" : "https://play.google.com/store/apps/details?id=com.Look2Movies.seriesflixe"
+            "description" : "Download: Pikashow Movies  for Movies and TV Shows",
+            "ico2" : "https://parnamg.info/uploads/2022/07/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-pikashow-apk-download-%D9%84%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF.webp",
+            "ico" : "https://play-lh.googleusercontent.com/A58YUmZvDyAGNUxu7yRFqQhyib2Ee2g__kFlSmqhwp1I5MeV4p-2PLziLlCC8TF2qgM=w300",
+            "link" : "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow"
         }
       ],
 
