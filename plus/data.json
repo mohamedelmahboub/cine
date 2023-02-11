@@ -1,8 +1,8 @@
 {
     "config" : [
         {
-            "int_interval" : 2,
-            "activate_ads" : "false",
+            "int_interval" : 5,
+            "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
@@ -27,9 +27,9 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "869943964229442_869944884229350",
-            "fan_native": "869943964229442_869945204229318",
-            "fan_int": "869943964229442_869945144229324",
+            "fan_ban": "1277423643166983_1277429076499773",
+            "fan_native": "1277423643166983_1277429259833088",
+            "fan_int": "1277423643166983_1277429176499763",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow"
