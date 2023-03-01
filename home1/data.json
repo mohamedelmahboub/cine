@@ -31,7 +31,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#827753361612244_840990353621878",
             "fan_int": "IMG_16_9_APP_INSTALL#827753361612244_840990266955220",
             
-            "activate_update_app": "true",
+            "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow"
         }
     ],
