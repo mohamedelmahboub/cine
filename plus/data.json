@@ -1,9 +1,9 @@
 {
     "config" : [
         {
-            "int_interval" : 3,
+            "int_interval" : 2,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "690f1b3d-0572-4b80-9792-f82b3dba0759",
             "network" : "fan",
 
@@ -51,11 +51,11 @@
 
     "custom" : [
         {
-            "name" : "Pocket Cine Movies and Shows",
-            "title" : "Pocket Cine.",
+            "name" : "Play Cine Movies and Shows",
+            "title" : "Play Cine.",
             "description" : "Download.",
-            "ico2" : "https://lmod.b-cdn.net/wp-content/uploads/2022/11/Pocket-Cine-Pro-Main2.png",
-            "ico" : "https://play-lh.googleusercontent.com/K0D01Vsii3IkTSbABJPdhYq043ALLDaPN4hMt4Tmzv3XNmL8t3xAYtm944SDmLmSlck=w480-h960",
+            "ico2" : "https://cdn.moviefone.com/admin-uploads/posters/fastx-movie-poster_1678807228.jpg?d=360x540&q=60",
+            "ico" : "https://play-lh.googleusercontent.com/iRi-HcZZDy1QXO5OD7q8JGNHwrht4AI3WGKDdunrBwEnOc4RDMvxVzB0QIRdvK60YHc=w480-h960",
             "link" : "https://play.google.com/store/apps/details?id=com.cine.Pocket.movieshow"
         }
 
