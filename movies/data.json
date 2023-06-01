@@ -1,0 +1,56 @@
+{
+    "config" : [
+        {
+            "tmdb_keys" : "345246bad6792619d62d261f66c1385d,98892a77b0cc1356d5872cf3cbbc5dd8",
+            
+            "int_interval" : 2,
+            "activate_ads" : "true",
+            "custom_banner" : "false",
+            "one_signal" : "1a9130d2-ad74-4678-a2dc-45a6e2a8498a",
+            "network" : "admob",
+
+            "unity_game_id" : "",
+            "unity_int" : "",
+            "unity_ban" : "",
+            
+            "admob_ban" : "ca-app-pub-3163521243993433/8087935430",
+            "admob_native" : "ca-app-pub-3163521243993433/3046242187",
+            "admob_int" : "ca-app-pub-3163521243993433/5863977211",
+            "admob_rewarded" : "ca-app-pub-3163521243993433/1924732202",
+
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
+            "yandex_rewarded" : "",
+
+            "iron_key": "",
+            "iron_ban" : "",
+            "iron_int" : "",
+
+            "max_ban" : "",
+            "max_native" : "",
+            "max_int" : "",
+            "max_reward" : "",
+
+            "fan_ban": "610403244297821_614816277189851",
+            "fan_native": "610403244297821_614816447189834",
+            "fan_int": "610403244297821_614816317189847",
+            "fan_rewarded": "610403244297821_614816407189838",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow",
+            "update_ico": "https://play-lh.googleusercontent.com/qBdVfwRCsI4KM7qewhJ0AKZKQjyD-DdxPDcdDbsRMhNO9zrwbefggn1vGqRIDZA3fg=s512-rw"
+        }
+    ],
+    
+    "custom" : [
+        {
+            "name" : "Pikashow Movies and TV Shows",
+            "title" : "TV Shows",
+            "description" : "Download: Pikashow Movies  for Movies and TV Shows",
+            "ico2" : "https://parnamg.info/uploads/2022/07/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-pikashow-apk-download-%D9%84%D9%84%D8%A7%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF.webp",
+            "ico" : "https://play-lh.googleusercontent.com/A58YUmZvDyAGNUxu7yRFqQhyib2Ee2g__kFlSmqhwp1I5MeV4p-2PLziLlCC8TF2qgM=w300",
+            "link" : "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow"
+        }
+    ]
+}
