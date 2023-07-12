@@ -1,8 +1,8 @@
 {
     "config" : [
         {
-            "int_interval" : 5,
-            "activate_ads" : "false",
+            "int_interval" : 3,
+            "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
@@ -27,9 +27,9 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#172532685621607_172533168954892",
-            "fan_native": "IMG_16_9_APP_INSTALL#172532685621607_172533235621552",
-            "fan_int": "IMG_16_9_APP_INSTALL#172532685621607_172533188954890",
+            "fan_ban": "1644347396034117_1644353866033470",
+            "fan_native": "1644347396034117_1644353959366794",
+            "fan_int": "1644347396034117_1644353896033467",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
